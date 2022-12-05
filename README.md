@@ -1,2 +1,2 @@
-# LaunchXLatam_2
-Prácticas de LaunchXLatam
+# LaunchXLatam_HolaMundo
+Práctica de LaunchXLatam
